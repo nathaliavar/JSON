@@ -1,7 +1,7 @@
 {
   "project": "www.test.com",
   "ID": 2856645,
-  "createdDate": '01.05.2022',
+  "createdDate": "01.05.2022",
   "name": "Don't work button 'Enter' on the main page",
   "priority": "high",
   "severity": "high",
